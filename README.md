@@ -2,6 +2,11 @@
 
 A simple Java console application for managing and playing a playlist of songs.
 
+## Data Structures and Algorithms
+
+This project demonstrates my knowledge of Data Structures and Algorithms, specifically the implementation and use of a doubly linked list. The playlist is managed using a doubly linked list, which allows efficient addition and removal of songs at both ends of the list, as well as easy traversal in both directions (forward and backward).
+
+
 ## Project Description
 
 This project allows users to create a playlist of songs, navigate through the playlist, and play songs. It provides functionalities to add songs to the beginning or end of the playlist, play the current song, move to the next or previous song, display the playlist, and remove songs from the playlist.
